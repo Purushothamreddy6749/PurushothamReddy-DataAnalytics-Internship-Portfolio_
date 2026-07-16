@@ -46,10 +46,10 @@ The internship focused on:
 
 | Task | Title | Repository |
 |------|-------------------------------|-----------|
-| ✅ Task 1 | Data Immersion & Wrangling | *(Add Repository Link)* |
-| ✅ Task 2 | Exploratory Data Analysis & Business Intelligence | *(Add Repository Link)* |
-| ✅ Task 3 | Deep-Dive Analysis & Interactive Dashboarding | *(Add Repository Link)* |
-| ✅ Task 4 | Data Storytelling & Statistical Validation | *(Add Repository Link)* |
+| ✅ Task 1 | Data Immersion & Wrangling | 
+| ✅ Task 2 | Exploratory Data Analysis & Business Intelligence | 
+| ✅ Task 3 | Deep-Dive Analysis & Interactive Dashboarding | 
+| ✅ Task 4 | Data Storytelling & Statistical Validation | 
 
 ---
 
